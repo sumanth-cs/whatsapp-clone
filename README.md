@@ -1,10 +1,5 @@
-This is an whatsApp clone made using
----> ReactJS 
----> fireBase
+WHATSAPP CLONE:
+        A chat Application
 
-
-THIS IS THE LINK FOR THIS PROJECT-
-
-    https://whatsapp-clone-17602.web.app
-    
-    
+Deployed Link:
+        https://whatsapp-clone-17602.web.app
